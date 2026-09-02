@@ -1,4 +1,5 @@
 # yargitay-rag-frontend
+
 Yargıtay kararları üzerinde soru-cevap yapabilen RAG uygulamasının arayüzü.
 
 Proje repo'su: (link eklenecek)
