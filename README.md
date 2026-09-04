@@ -2,9 +2,8 @@
 
 Yargıtay kararları üzerinde soru-cevap yapabilen RAG uygulamasının arayüzü.
 
-Proje repo'su: (link eklenecek)
-Backend repo'su: (link eklenecek)
-
+Proje repo'su: https://github.com/azracerturk/yargitay-rag-proje
+Backend repo'su: https://github.com/azracerturk/yargitay-rag-backend
 ## Teknolojiler
 - React + TypeScript
 - Vite
